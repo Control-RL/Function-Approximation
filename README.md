@@ -19,3 +19,4 @@ The tutorial notebooks are in the directory: \
 - Copy them to your Google Drive
 
 
+[Solutions](https://drive.google.com/drive/folders/1T36DmzbFAzanXHpk61Ibo9lEaFvrzk4n?usp=sharing)
